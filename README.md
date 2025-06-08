@@ -1,5 +1,7 @@
 # DataChemistry OLCC
-This site is set up to organize the 2025 DataChemistry OLCC, which is a collaboratively taught intercollegiate course on data chemistry.
+This site is set up to organize the 2025 DataChemistry OLCC, which is a collaboratively taught intercollegiate course on data chemistry. The following table is an outline of proposed topics we will be developing. We will also be developing python primer modules, many based on the work of other people who have shared their material on the web, and will then take a "backward curriculum design" approach in that we will create maps through content to prepare students for some of the more advanced modules below. That is, this course is designed for chemistry majors with little or no programming background, but who want to learn coding.
+
+Each of these modules will be discussed in the [module development forum](https://nanohub.org/groups/ccce) of the [CCCE Planing Group](https://nanohub.org/groups/ccce) within the nanoHUB. We will eventually build a nanoHUB tool for this like the [2019 Cheminformatics OLCC tool](https://nanohub.org/tools/cheminf2019olcc).
 
 | Unit | Topic                                          | Non-programming activity                                                                                                                                   | Programming activity                                                                                      |
 |------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|

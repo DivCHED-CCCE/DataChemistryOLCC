@@ -1,0 +1,5 @@
+# Module 1: Introduction
+
+This module is under construction and is being discussed in the CCCE Working Group forum of the nanoHUB.  Contact Bob Belford if you would like access to the working group at **rebelford@ualr.edu**.
+
+The first module of the DataChem OLCC is designed to be a sort of independent study module with the goal of exposing students to PubChem, Python and Jupyter Notebooks.  As different schools have different academic calendars we expect the schools that start classes earlier in the semester to spend more time on this module than ones that start later. This module has two components, a general introduction to the course, and an [Interactive PubChem Training Course](https://www.nlm.nih.gov/oet/ed/pubchem/tutorial/index.html) that was developed by staff at the National Library of Medicine (NLM). All students are expected to complete this course and students who register for **Continuing Education Credits** can recieve a certificate from the NLM.

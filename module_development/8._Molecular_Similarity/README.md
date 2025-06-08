@@ -1,0 +1,2 @@
+# Module 8: Molecular Similarity
+This module is under construction and is being discussed in the CCCE Working Group forum of the nanoHUB.  Contact Bob Belford if you would like access to the working group at **rebelford@ualr.edu**. These notebooks are modifications of the 2019 Cheminformatics OLCC lecture 6 on Molecular Similarity originally developed by Sunghwan Kim and this update is being spearheaded by Ehren Bucholtz (ehren.Bucholtz@uhsp.edu).
