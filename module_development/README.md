@@ -1,0 +1,3 @@
+# Module Development
+This site is under construction and is being discussed in the CCCE Working Group forum of the [nanoHUB](https://nanohub.org//).  Contact Bob Belford if you would like access to the working group at **rebelford@ualr.edu**. This site is only for development purposes and another site will be built to run the course.  Each module will contain Jupyter notebooks and a variety of files that go with the notebooks.
+There will also be a readme file in each module describing who to contact if you have questions about a the modules content or wish to be involved.
