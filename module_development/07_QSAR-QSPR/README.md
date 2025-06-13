@@ -1,14 +1,12 @@
 # Quantitative Structure Property Relationship Notebook
 
-This is an update of the 2019 QSPR notebook. I have added "check your understanding" prompts and an extra credit assignment that could be
-easily adapted to make a nice Machine Learning and Fingerprint project for students who may not be as interested in predicting biological
- activity of molecules. The dataset already has molecules split into training and test set and I only used the training set for this assignment.
+This is an update of the 2019 QSPR notebook that was developed by Ehren Bucholtz. Contact Ehren at ehren.Bucholtz@uhsp.edu if you want access to the keys. Contact Bob Belford (rebelford@ualr.edu) if you have any questions concerning this project.
 
 Details of attached files:
 1. QSPRUpdate2025.ipynb
    - The updated student notebook
 2. QSPRUpdate2025Key.ipynb
-   - The updated instructor notebook. This has additional information for instructors as well as code for the homework assignments.
+   - The updated instructor notebook. This has additional information for instructors as well as code for the homework assignments. (note this file is not available in this repository)
 3. BP.csv
    - This is the original 30 molecule BP dataset for predicting BP.
 4. 102BP.csv
