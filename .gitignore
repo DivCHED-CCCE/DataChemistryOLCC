@@ -1,3 +1,7 @@
+# Dropbox specific files
+*.dropbox.attrs
+
+
 # Windows Specific Files
 *:Zone.Identifier
 Thumbs.db
