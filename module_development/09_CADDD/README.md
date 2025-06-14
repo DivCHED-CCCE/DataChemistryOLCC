@@ -1,0 +1,3 @@
+# Module 9: Computer-Aided Drug Discovery and Design
+
+This module is under construction and is being discussed in the CCCE Working Group forum of the nanoHUB. Contact Bob Belford if you would like access to the working group at rebelford@ualr.edu. These notebooks are modifications of the 2019 Cheminformatics OLCC lecture 7 on virtual screening originally developed by Sunghwan Kim. This update is being spearheaded by Ehren Bucholtz (ehren.Bucholtz@uhsp.edu), whom you should contact if you want to contribute to this module or be granted access to the key
