@@ -1,5 +1,12 @@
 # Module 1: Introduction
+This directory is set up to develop supporting activities to assist students in the first module of the DataChemistry OLCC. Discussions of this module will take place in the [01_Introduction Forum](https://nanohub.org/groups/ccce/forum/module-development/1-introduction) of the Module Development category of the nanoHUB [CCCE OLCC Working Group](https://nanohub.org/groups/ccce/forum). Please contact Bob Belford (rebelford@ualr.edu) if you would like to join the working group, contribute content to this repository, or have any questions or concerns about this project.
 
-This module is under construction and is being discussed in the CCCE Working Group forum of the nanoHUB.  Contact Bob Belford if you would like access to the working group at **rebelford@ualr.edu**.
+One of the challenges of organizing an intercollegiate course is that different schools have different academic calendars and so students from different schools will spend different amounts of time on the initial module. The core objective of this module is for all students to gain an understanding of what PubChem is by taking the self-paced [Interactive PubChem Training Course](https://www.nlm.nih.gov/oet/ed/pubchem/tutorial/index.html) that was developed by staff at the National Library of Medicine (NLM). All students are expected to complete this course and students who register for **Continuing Education Credits** will recieve a certificate from the NLM.
 
-The first module of the DataChem OLCC is designed to be a sort of independent study module with the goal of exposing students to PubChem, Python and Jupyter Notebooks.  As different schools have different academic calendars we expect the schools that start classes earlier in the semester to spend more time on this module than ones that start later. This module has two components, a general introduction to the course, and an [Interactive PubChem Training Course](https://www.nlm.nih.gov/oet/ed/pubchem/tutorial/index.html) that was developed by staff at the National Library of Medicine (NLM). All students are expected to complete this course and students who register for **Continuing Education Credits** can recieve a certificate from the NLM.
+The notebooks in this repository are optional and designed to support this activity.  Schools that start early will be doing both these activities and Python Primer activities while we wait for all schools to start their academic semester.
+
+## Notebooks
+Note: these are not core activities of the Data Chemistry OLCC.
+
+### 01-1_PubChemDataTypes
+This notebook was developed my Bob Belford as he was going through the first part of the PubChem Interactive tutorial on the different type of data in PubChem and involves select content from a discussion he had with ChatGPT and Perplexity as he took the tutorial.
