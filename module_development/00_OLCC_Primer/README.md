@@ -3,4 +3,4 @@ This directory is set up to develop a variety of Python tutorials to assist stud
 
 ## Notebook Outlines
 ### 00-1_python_basics
-This notebook is a modification of the 00_python_basics jupyter notebook from the MolSSI Cheminformatics Workshop. [MolSSI](https://molssi.org/) is the Molecular Sciences Software Institute. This notebook also takes inspiration from Chapter1: Basic Python from Charlie Weiss's book [Scientific Computing for Chemists with Python](https://weisscharlesj.github.io/SciCompforChemists/notebooks/introduction/intro.html). Contact Ehren Bucholtz (ehren.Bucholtz@uhsp.edu). if you want access to the key. 
+This notebook is a modification of the 00_python_basics Jupyter notebook from the MolSSI Cheminformatics Workshop. [MolSSI](https://molssi.org/) is the Molecular Sciences Software Institute. This notebook also takes inspiration from Chapter 1: Basic Python from Charlie Weiss's book [Scientific Computing for Chemists with Python](https://weisscharlesj.github.io/SciCompforChemists/notebooks/introduction/intro.html). Contact Ehren Bucholtz (ehren.Bucholtz@uhsp.edu). if you want access to the key. 
