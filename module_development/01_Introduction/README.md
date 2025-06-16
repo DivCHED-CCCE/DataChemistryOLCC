@@ -12,4 +12,4 @@ Note: these are not core activities of the Data Chemistry OLCC.
 This notebook was developed my Bob Belford as he was going through the first part of the PubChem Interactive tutorial on the different type of data in PubChem and involves select content from a discussion he had with ChatGPT and Perplexity as he took the tutorial.
 
 ### 01_2_PUG_REST_activity
-This notebook is a modification of the 2019 Cheminformatics OLCC lecture 1 originally developed by Sunghwan Kim on "Getting Molecular Properties through PUG_REST". This update is being spearheaded by Ehren Bucholtz (whren.Bucholts@uhsp.edu) whom you should contact if you want to contribute to this activity or be granted access to the keys.
+This notebook is a modification of the 2019 Cheminformatics OLCC lecture 1 originally developed by Sunghwan Kim on "Getting Molecular Properties through PUG_REST". This update is being spearheaded by Ehren Bucholtz (ehren.Bucholts@uhsp.edu) whom you should contact if you want to contribute to this activity or be granted access to the keys.

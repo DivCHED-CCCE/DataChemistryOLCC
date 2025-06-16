@@ -6,4 +6,4 @@ This directory is set up to develop supporting activities to assist students in 
 ## Notebooks
 
 ### 08_1(a-c) Molecular Similarity
-These three notebooks are modifications of the 2019 Cheminformatics OLCC lecture 6 on Molecular Similarity originally developed by Sunghwan Kim. This update is being spearheaded by Ehren Bucholtz (whren.Bucholts@uhsp.edu) whom you should contact if you want to contribute to this module or be granted access to the keys.
+These three notebooks are modifications of the 2019 Cheminformatics OLCC lecture 6 on Molecular Similarity originally developed by Sunghwan Kim. This update is being spearheaded by Ehren Bucholtz (ehren.Bucholts@uhsp.edu) whom you should contact if you want to contribute to this module or be granted access to the keys.
