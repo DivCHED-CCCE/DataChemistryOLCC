@@ -1,5 +1,5 @@
 # Python Primer
-This directory is set up to develop a variety of Python tutorials to assist students in learning Python skills they will use in later modules. Discussions of these tutorials will take place in the [00-OLCC Primer GitHub Discussion Forum](ttps://nanohub.org/groups/ccce/forum/module-development/0-general-discussion-and-information) of the MODULE DEVELOPMENT category of the nanoHUB [CCCE OLCC Working Group](https://nanohub.org/groups/ccce/forum). Please contact Bob Belford (rebelford@ualr.edu) if you would like to join the working group, contribute content to this repository, or have any questions or concerns about this project.
+This directory is set up to develop a variety of Python tutorials to assist students in learning Python skills they will use in later modules. Discussions of these tutorials will take place in the [OLCC Primer GitHub Discussions](https://github.com/DivCHED-CCCE/DataChemistryOLCC/discussions/categories/00-olcc-primer). Please contact Bob Belford (rebelford@ualr.edu) if you would like to join the working group, contribute content to this repository, or have any questions or concerns about this project.
 
 ## Notebook Outlines
 ### 00-1_python_basics
