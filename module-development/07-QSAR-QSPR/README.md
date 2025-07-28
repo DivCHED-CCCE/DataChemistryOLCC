@@ -1,6 +1,6 @@
 #  Module 7: Quantitative Structure Property Relationship 
 
-This directory is set up to develop supporting activities to assist students in the ninth module of the DataChemistry OLCC. Discussions of this module will take place in the [07QSAR/QSPR Forum](https://nanohub.org/groups/ccce/forum/module-development/7-qsarqspr) of the Module Development category of the nanoHUB [CCCE OLCC Working Group](https://nanohub.org/groups/ccce/forum). Please contact Bob Belford (rebelford@ualr.edu) if you would like to join the working group, contribute content to this repository, or have any questions or concerns about this project.
+ Discussions of this module will take place in the [QSPR/QSAP Github Discussion Forum](https://github.com/DivCHED-CCCE/DataChemistryOLCC/discussions/categories/07-qsar-qspr). Please contact Bob Belford (rebelford@ualr.edu) if you would like to join the working group, contribute content to this repository, or have any questions or concerns about this project.
 
 ## Notebooks
 
